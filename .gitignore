@@ -38,6 +38,7 @@ logs/
 
 # Checkpoints
 checkpoints/*.pt
+checkpoints/*.onnx
 !checkpoints/.gitkeep
 
 # Data
